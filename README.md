@@ -4,8 +4,8 @@ Brief overview and informational resources on working with complex hierarchial s
 The goal of this repository is to provide interactive, explorartory information on the mathematics, theory and python modules to manipulate and understand complex hierarchial systems.
 The following topics are to be discussed in depth and explored within the context of python.
 
-1. Natural language processing and sentiment analysis - *Computing sense from sentence*
-
+1. Natural language processing and sentiment analysis -
+*Computing sense from sentence*
 2. Graph theory as complex mathematical structues -
 *Traverse, characterise and manipulate all the birds of all the feathers*
 3. Hyperbolic Geometry and hierarchial data structures -
@@ -13,7 +13,7 @@ The following topics are to be discussed in depth and explored within the contex
 4. Bayesian statistics - *Helping Plato's prisoners understand the sun better.*
 
 #### 1. Natural language processing and sentiment analysis
-
+*Computing sense from sentence*
 
 #### 2. Graph theory as complex mathematical structues
 *Traverse, characterise and manipulate all the birds of all the feathers*
